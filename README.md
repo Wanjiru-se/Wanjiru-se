@@ -1,7 +1,12 @@
 # Hi, I'm Wanjiru 👋
 
-I'm a software engineer who enjoys solving problems by building software.
+I'm a software engineer who enjoys turning ideas into real, working applications.
 
-Over the past year I've worked on backend APIs, Android applications, and AI-powered projects using Java, Spring Boot, Kotlin, Python, Git, SQL, and REST APIs. I'm especially interested in backend engineering, computer vision, and machine learning, and I enjoy learning by building projects that solve real problems.
+I love exploring different areas of software development, from building clean, interactive frontend experiences to developing backend APIs, Android applications, and AI-powered projects.
 
-Outside of class you'll usually find me improving one of my projects, learning a new technology, or figuring out why something isn't working until it finally does.
+I've worked with technologies like React, JavaScript, Java, Spring Boot, Kotlin, Python, SQL, and REST APIs, and I'm always looking to learn something new.
+
+I'm especially interested in full-stack development, computer vision, and machine learning, but I enjoy experimenting with different technologies and finding creative ways to solve real-world problems.
+
+Happy to connect!
+
